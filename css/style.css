@@ -1,0 +1,26 @@
+/* css/style.css */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.jumbotron {
+    background-color: #fff;
+    padding: 3rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+footer {
+    background-color: #e2e6ea; /* Light grey */
+    padding: 1.5rem 0;
+    margin-top: 3rem;
+    color: #555;
+}
+
+/* Add some basic image styling for the profile picture */
+.img-fluid.rounded-circle {
+    border: 3px solid #007bff; /* Primary color border */
+}
